@@ -1,0 +1,1 @@
+rootProject.name = "com.example.url_shortener_ktor_plugin"
